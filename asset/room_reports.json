@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Air Conditioner Maintenance",
+      "description": "Cleaned AC air filters and verified cooling cycle.",
+      "location": "Room 101",
+      "status": "resolved",
+      "priority": "low",
+      "reportedBy": "Juan Dela Cruz",
+      "reportedAt": "2026-10-20T09:30:00Z",
+      "resolvedAt": "2026-10-21T14:15:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Study Chair Adjustment",
+      "description": "Ergonomic chair height lever needs lubrication.",
+      "location": "Room 102",
+      "status": "scheduled",
+      "priority": "medium",
+      "reportedBy": "Raf Princess",
+      "reportedAt": "2026-10-22T16:45:00Z",
+      "resolvedAt": null
+    },
+    {
+      "id": 3,
+      "title": "Wi-Fi Access Point Optimization",
+      "description": "Wi-Fi connectivity verification for study desk area.",
+      "location": "Room 103",
+      "status": "open",
+      "priority": "low",
+      "reportedBy": "Davie Hudson",
+      "reportedAt": "2026-10-25T08:10:00Z",
+      "resolvedAt": null
+    },
+    {
+      "id": 4,
+      "title": "Smoke Detector Battery Test",
+      "description": "Routine periodic smoke detector battery testing.",
+      "location": "Room 104",
+      "status": "resolved",
+      "priority": "low",
+      "reportedBy": "Princess Jack",
+      "reportedAt": "2026-10-26T10:00:00Z",
+      "resolvedAt": "2026-10-26T11:00:00Z"
+    }
+  ]
+}

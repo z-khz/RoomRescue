@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "roomNumber": "Room 101",
+      "roomType": "Single Room",
+      "floor": "1st Floor",
+      "roomCapacity": "2 Persons",
+      "roomStatus": "Occupied",
+      "tenantName": "Juan Dela Cruz",
+      "contactNumber": "0911413567",
+      "building": "Main Hall",
+      "amenities": [
+        "Air Conditioner",
+        "Study Desk",
+        "Single Bed",
+        "Ensuite Bathroom",
+        "Wi-Fi"
+      ],
+      "lastInspected": "2026-10-20",
+      "activeIssuesCount": 0
+    },
+    {
+      "id": 2,
+      "roomNumber": "Room 102",
+      "roomType": "Single Room",
+      "floor": "1st Floor",
+      "roomCapacity": "1 Person",
+      "roomStatus": "Occupied",
+      "tenantName": "Raf Princess",
+      "contactNumber": "0915413567",
+      "building": "Main Hall",
+      "amenities": [
+        "Air Conditioner",
+        "Single Bed",
+        "Study Desk",
+        "Smoke Detector"
+      ],
+      "lastInspected": "2026-10-18",
+      "activeIssuesCount": 0
+    },
+    {
+      "id": 3,
+      "roomNumber": "Room 103",
+      "roomType": "Single Room",
+      "floor": "1st Floor",
+      "roomCapacity": "2 Persons",
+      "roomStatus": "Occupied",
+      "tenantName": "Davie Hudson",
+      "contactNumber": "09384784688",
+      "building": "Main Hall",
+      "amenities": [
+        "Air Conditioner",
+        "Bunk Bed",
+        "Study Desk",
+        "Wi-Fi"
+      ],
+      "lastInspected": "2026-10-19",
+      "activeIssuesCount": 0
+    },
+    {
+      "id": 4,
+      "roomNumber": "Room 104",
+      "roomType": "Single Room",
+      "floor": "1st Floor",
+      "roomCapacity": "2 Persons",
+      "roomStatus": "Occupied",
+      "tenantName": "Princess Jack",
+      "contactNumber": "0935358886",
+      "building": "Main Hall",
+      "amenities": [
+        "Air Conditioner",
+        "Study Desk",
+        "Ensuite Bathroom",
+        "Smoke Detector"
+      ],
+      "lastInspected": "2026-10-21",
+      "activeIssuesCount": 0
+    }
+  ]
+}
